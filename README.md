@@ -19,7 +19,7 @@ Add shortcuts for frequently visited websites, open them instantly, and manage y
 Make sure you have [Node.js](https://nodejs.org/) installed.  
 Then install Jumpify globally via npm:
 
-npm install -g jumpify
+npm install -g @siva_j_r/jumpify
 
 
 
