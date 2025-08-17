@@ -1,0 +1,19 @@
+{
+  "name": "jumpify",
+  "version": "1.0.0",
+  "description": "A CLI tool to quickly jump to your favorite websites",
+  "main": "index.js",
+  "bin": {
+    "jumpify": "./bin/jump.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["cli", "jump", "shortcuts", "web", "open","terminal","productivity","open websites"],
+  "author": "Siva.J.R",
+  "license": "MIT",
+  "dependencies": {
+    "open": "^10.2.0"
+  }
+}
+
