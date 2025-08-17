@@ -25,15 +25,15 @@ npm install -g jumpify
 
 1.Add a new shortcut
 
-jumpify add <name> <url>
+jumpify add 'name' 'url'
 
 2.Open a shortcut
 
-jumpify <name>
+jumpify open 'name'
 
 3.Kill (remove) a shortcut
 
-jumpify kill <name>
+jumpify kill 'name'
 
 4.List all shortcuts
 
